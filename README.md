@@ -1,7 +1,7 @@
 
   <div align="center">
   <h1 align="center">Greatest Common Divisor</h1>
-  <h3>Codebase for the Greates Common Divisor platform</h3>
+  <h3>Codebase for the Greates Common Divisor</h3>
   <h3>◦ Developed with the software and tools below.</h3>
   <p align="center"><img src="https://img.shields.io/badge/-Python-004E89?logo=Python&style=flat-square" alt='Python\' />
   </p>
